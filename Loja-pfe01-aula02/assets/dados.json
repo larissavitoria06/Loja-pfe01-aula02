@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "produto":"ovos de chocolate branco",
+        "descricao":"lacta",
+        "preco":25.9,
+        "imagem":"https://s3-sa-east-1.amazonaws.com/superimg/img.produtos/7898142862784/img_1200_1.png"
+    },
+    {
+        "id":2,
+        "produto":"Chocolate Branco",
+        "descricao":"Tenuva",
+        "preco":25.9,
+        "imagem":"https://imageswscdn.wslojas.com.br/files/26706/MED_ovo-de-pascoa-vegano-chocolate-branco-com-cookies-tnuva-150g-300466.png"
+    },
+    {
+        "id":3,
+        "produto":"Ovo de KitKat branco cremoso",
+        "descricao":"Nestlesiada",
+        "preco":73.9,
+        "imagem":"https://m.media-amazon.com/images/I/61nSbkI0TNL._AC_SL1000_.jpg"
+    },
+    {
+        "id":4,
+        "produto":"Ovo de KitKat branco Seco",
+        "descricao":"Nestlesiada",
+        "preco":78.5,
+        "imagem":"https://i.pinimg.com/736x/37/79/2c/37792c502fb4ed615b58794467533382.jpg"
+    },
+    {
+        "id":5,
+        "produto":"Ovo de Leite em pó",
+        "descricao":". Sua mãe é tão velha que sai leite em pó das tetas delas!",
+        "preco":125.9,
+        "imagem":"https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw13ef3d33/medium/1003504_1.png"
+    },
+    {
+        "id":6,
+        "produto":"Ovo de Limão Suino",
+        "descricao":"Cat noar",
+        "preco":25.9,
+        "imagem":"https://framerusercontent.com/images/q6KuGcaHNi8AlEU3fq06yDkcFbQ.png"
+    },
+    {
+        "id":7,
+        "produto":"Ovo da Careca de Voldemort",
+        "descricao":"Herry Potter",
+        "preco":85.9,
+        "imagem":"https://canada1.discourse-cdn.com/ifood/original/3X/4/b/4be5ce5f0c74834d17c4ae069f6b9c6767f884dc.jpeg"
+    },
+    {
+        "id":8,
+        "produto":"Ovo de Chocolate KitKat",
+        "descricao":"nestlesiado",
+        "preco":125.9,
+        "imagem":"https://http2.mlstatic.com/D_817906-MLB44810421268_022021-C.jpg"
+    },
+    {
+        "id":9,
+        "produto":"Ovo de Chocolate ao Leite",
+        "descricao":"Arcor",
+        "preco":85.9,
+        "imagem":"https://s3-sa-east-1.amazonaws.com/superimg/img.produtos/7898142862630/img_1200_1.png"
+    },
+    {
+        "id":10,
+        "produto":"Ovo de Diamante Negro",
+        "descricao":"Lacta",
+        "preco":75.9,
+        "imagem":"https://phygital-files.mercafacil.com/armazem-maria/uploads/produto/ovo_de_chocolate_lacta_diamante_negro_163g_25dae952-b8d6-4d2b-bb38-7b15aea6cdef.png"
+    },
+    {
+        "id":11,
+        "produto":"Ovo Nobre de Ferreiro Rocher",
+        "descricao":"Gran",
+        "preco":28.35,
+        "imagem":"https://w7.pngwing.com/pngs/706/60/png-transparent-ferrero-rocher-ferrero-spa-easter-egg-chocolate-easter-thumbnail.png"
+    }
+    
+ ]
