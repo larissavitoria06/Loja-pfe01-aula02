@@ -16,21 +16,21 @@
     {
         "id":3,
         "produto":"Ovo de KitKat branco cremoso",
-        "descricao":"Nestlesiada",
+        "descricao":"Nestle",
         "preco":73.9,
         "imagem":"https://m.media-amazon.com/images/I/61nSbkI0TNL._AC_SL1000_.jpg"
     },
     {
         "id":4,
-        "produto":"Ovo de KitKat branco Seco",
-        "descricao":"Nestlesiada",
+        "produto":"Ovo de KitKat branco ",
+        "descricao":"Nestle",
         "preco":78.5,
         "imagem":"https://i.pinimg.com/736x/37/79/2c/37792c502fb4ed615b58794467533382.jpg"
     },
     {
         "id":5,
-        "produto":"Ovo de Leite em pó",
-        "descricao":". Sua mãe é tão velha que sai leite em pó das tetas delas!",
+        "produto":"Ovo de Chocolate Branco",
+        "descricao":". lacta",
         "preco":125.9,
         "imagem":"https://www.cacaushow.com.br/on/demandware.static/-/Sites-masterCatalog_CacauShow/default/dw13ef3d33/medium/1003504_1.png"
     },
@@ -43,7 +43,7 @@
     },
     {
         "id":7,
-        "produto":"Ovo da Careca de Voldemort",
+        "produto":"Ovo de chocolate",
         "descricao":"Herry Potter",
         "preco":85.9,
         "imagem":"https://canada1.discourse-cdn.com/ifood/original/3X/4/b/4be5ce5f0c74834d17c4ae069f6b9c6767f884dc.jpeg"
@@ -51,7 +51,7 @@
     {
         "id":8,
         "produto":"Ovo de Chocolate KitKat",
-        "descricao":"nestlesiado",
+        "descricao":"nestle",
         "preco":125.9,
         "imagem":"https://http2.mlstatic.com/D_817906-MLB44810421268_022021-C.jpg"
     },
